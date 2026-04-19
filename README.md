@@ -1,78 +1,194 @@
-\<div align="center"\>
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=24\&pause=1000\&color=00FF41\&center=true\&vCenter=true\&width=800\&lines=Biloliddin+Normirzayev;Full-Stack+Developer;System+Administrator;AI+Engineer;Arch+Linux+%2F%2F+Sway+WM](https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DJetBrains%2BMono%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D00FF41%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DBiloliddin%2BNormirzayev%3BFull-Stack%2BDeveloper%3BSystem%2BAdministrator%3BAI%2BEngineer%3BArch%2BLinux%2B%252F%252F%2BSway%2BWM)" alt="Terminal Header" /\>
-\</div\>
+<div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│  [!] SYSTEM BOOT: OK                                                    │
-│  [!] DAEMON STATUS: ACTIVE                                              │
-│  [!] USER: BILOLIDDIN NORMIRZAYEV                                       │
-│  [!] KERNEL: ARCH LINUX                                                 │
-└─────────────────────────────────────────────────────────────────────────┘
+```
+┌──────────────────────────────────────────────────────────────┐
+│  ARCH • WAYLAND • NEOVIM • SYSTEMD • POSTGRESQL • DOCKER  │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### `$ whoami`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=900&lines=%24+whoami;Biloliddin+Normirzayev;Full-Stack+Developer;System+Administrator;AI+Engineer;Arch+Linux+Operator" />
 
-> Full-Stack Developer and System Administrator specializing in high-load systems, AI pipeline integrations, and modular architecture. I build scalable infrastructure and performant backends from the terminal, bridging the gap between sophisticated software engineering and raw system performance.
+</div>
 
-### `$ uname -a`
+---
 
-**OS:** Arch Linux x86\_64
-**WM:** Sway (Wayland)
-**Shell:** zsh + starship
-**Editor:** Neovim
-**Terminal:** foot / kitty
+## $ whoami
 
-### `$ cat /sys/class/current_focus`
+```bash
+name:        Biloliddin Normirzayev
+roles:       Full-Stack Developer | System Administrator | AI Engineer
+philosophy:  Build minimal. Scale clean. Automate everything.
+location:    Wayland session
+editor:      nvim
+shell:       zsh + starship
+```
 
-  - Architecting high-load PostgreSQL databases (1M+ records)
-  - Developing performant CLI applications in Python and Go
-  - Building full-stack web applications with TS/React
-  - Integrating AI pipelines and LLM assistants into modular systems
-  - Automating infrastructure deployments via Docker and Systemd
+---
 
-### `$ ls skills/`
+## $ uname -a
 
-| Directory | Contents |
-| :--- | :--- |
-| `/frontend` | `JavaScript` `TypeScript` `React` `HTML` `CSS` `TailwindCSS` |
-| `/backend` | `Python` `Go` `REST_APIs` `CLI_Tooling` `Modular_Architecture` |
-| `/database` | `PostgreSQL` `SQLite` `Index_Optimization` `Query_Tuning` |
-| `/infrastructure` | `Docker` `Linux_Servers` `Systemd` `Networking` |
-| `/os_environments`| `Arch` `Ubuntu` `Fedora` `Debian` |
+```bash
+OS:           Arch Linux
+WM:           Sway (Wayland)
+Terminal:     foot / kitty
+Kernel:       linux-zen
+Philosophy:   KISS + modular architecture
+Also worked:  Ubuntu | Fedora | Debian
+```
 
-### `$ cat /proc/mindset`
+---
 
-1.  **Minimalism:** Write only what is necessary. Less code equals a smaller attack surface and fewer bugs.
-2.  **Scalability by Design:** Architect systems anticipating high load, concurrency, and rapid data ingestion.
-3.  **Terminal First:** Optimize workflows through CLI tooling, scripts, and keyboard-driven environments.
-4.  **Data Integrity:** Strict schema design, rigorous indexing, and precise query execution.
+## $ ls skills/
 
-### `$ netstat -a | grep github`
+```bash
+frontend/
+  ├── JavaScript
+  ├── TypeScript
+  ├── React
+  ├── HTML
+  ├── CSS
+  └── TailwindCSS
 
-\<div align="center"\>
-\<img src="[https://github-readme-stats.vercel.app/api?username=USERNAME\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&bg\_color=0d1117\&title\_color=00FF41\&text\_color=c9d1d9\&icon\_color=00FF41](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DUSERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FF41%26text_color%3Dc9d1d9%26icon_color%3D00FF41)" alt="GitHub Stats" width="48%" /\>
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=tokyonight\&hide\_border=true\&bg\_color=0d1117\&title\_color=00FF41\&text\_color=c9d1d9](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DUSERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FF41%26text_color%3Dc9d1d9)" alt="Top Languages" width="48%" /\>
-\</div\>
-<br>
-\<div align="center"\>
-\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=USERNAME\&theme=tokyonight\&hide\_border=true\&background=0d1117\&ring=00FF41\&fire=00FF41\&currStreakNum=c9d1d9\&sideNums=c9d1d9\&sideLabels=c9d1d9\&dates=c9d1d9](https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DUSERNAME%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0d1117%26ring%3D00FF41%26fire%3D00FF41%26currStreakNum%3Dc9d1d9%26sideNums%3Dc9d1d9%26sideLabels%3Dc9d1d9%26dates%3Dc9d1d9)" alt="GitHub Streak" width="100%" /\>
-\</div\>
-<br>
-\<div align="center"\>
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=USERNAME\&theme=tokyo-night\&bg\_color=0d1117\&color=00FF41\&line=00FF41\&point=c9d1d9\&hide\_border=true](https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DUSERNAME%26theme%3Dtokyo-night%26bg_color%3D0d1117%26color%3D00FF41%26line%3D00FF41%26point%3Dc9d1d9%26hide_border%3Dtrue)" alt="Activity Graph" width="100%" /\>
-\</div\>
+backend/
+  ├── Python
+  ├── Go
+  ├── REST APIs
+  ├── CLI applications
+  └── Modular architecture
 
-### `$ ping contact`
+database/
+  ├── PostgreSQL
+  ├── SQLite
+  ├── High-load schema design
+  ├── Index optimization
+  └── Query tuning
 
-> Available for technical collaboration and system architecture discussions.
+infrastructure/
+  ├── Docker
+  ├── Linux server configuration
+  ├── Networking fundamentals
+  ├── systemd services
+  └── Infrastructure automation
 
-\<div align="left"\>
-\<img src="[https://profile-counter.glitch.me/USERNAME/count.svg](https://www.google.com/search?q=https://profile-counter.glitch.me/USERNAME/count.svg)" alt="Visitor Count" /\>
-\</div\>
+ai/
+  ├── LLM pipelines
+  ├── Assistant architectures
+  └── AI integration into production systems
+```
 
------
+---
 
-\<div align="center"\>
-\<code\>// architecting scalable systems\</code\>
-\</div\>
+## $ cat /proc/mindset
+
+```txt
+- Engineering over hype
+- Performance before abstraction
+- Observability is mandatory
+- Automate repetitive work
+- Design for 1M+ records from day one
+- CLI first. GUI optional.
+- Read logs. Trust metrics.
+```
+
+---
+
+## $ tree projects/
+
+```bash
+projects/
+├── fullstack/
+│   ├── scalable web platforms
+│   ├── modular API backends
+│   └── React + TypeScript frontends
+│
+├── highload/
+│   ├── 1M+ records database systems
+│   ├── indexing strategies
+│   └── performance benchmarking
+│
+├── cli/
+│   ├── admin tooling
+│   ├── automation scripts
+│   └── system utilities
+│
+└── ai/
+    ├── assistant systems
+    ├── LLM integrations
+    └── workflow automation
+```
+
+---
+
+## $ current_focus
+
+```bash
+- Advanced PostgreSQL performance tuning
+- Distributed system design fundamentals
+- Go-based backend services
+- AI-assisted infrastructure tooling
+- Production-grade Docker deployments
+```
+
+---
+
+## $ system_status
+
+```bash
+CPU:        Focused
+Memory:     Allocated efficiently
+Latency:    Low
+Errors:     Handled
+Uptime:     99.9%
+Mode:       Shipping
+```
+
+---
+
+## $ engineering_principles
+
+```txt
+1. Every system must be observable.
+2. Every API must be predictable.
+3. Every database must be indexed intentionally.
+4. Every service must be restart-safe.
+5. If it can't scale — redesign it.
+6. If it can't be automated — script it.
+```
+
+---
+
+## $ git stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" />
+
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" />
+
+</div>
+
+---
+
+## $ ping contact
+
+```bash
+status: reachable
+preferred_protocol: async
+response_time: depends_on_complexity
+```
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=visitors&color=00ff41&style=flat" />
+
+</div>
+
+---
+
+```
+// architecting scalable systems
+```
