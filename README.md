@@ -1,167 +1,78 @@
-```markdown
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Biloliddin+Normirzayev;Full-Stack+Developer;System+Administrator;AI+Engineer" alt="Typing Animation" />
-</div>
+\<div align="center"\>
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=24\&pause=1000\&color=00FF41\&center=true\&vCenter=true\&width=800\&lines=Biloliddin+Normirzayev;Full-Stack+Developer;System+Administrator;AI+Engineer;Arch+Linux+%2F%2F+Sway+WM](https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DJetBrains%2BMono%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D00FF41%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DBiloliddin%2BNormirzayev%3BFull-Stack%2BDeveloper%3BSystem%2BAdministrator%3BAI%2BEngineer%3BArch%2BLinux%2B%252F%252F%2BSway%2BWM)" alt="Terminal Header" /\>
+\</div\>
 
+```text
+┌─────────────────────────────────────────────────────────────────────────┐
+│  [!] SYSTEM BOOT: OK                                                    │
+│  [!] DAEMON STATUS: ACTIVE                                              │
+│  [!] USER: BILOLIDDIN NORMIRZAYEV                                       │
+│  [!] KERNEL: ARCH LINUX                                                 │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+### `$ whoami`
+
+> Full-Stack Developer and System Administrator specializing in high-load systems, AI pipeline integrations, and modular architecture. I build scalable infrastructure and performant backends from the terminal, bridging the gap between sophisticated software engineering and raw system performance.
+
+### `$ uname -a`
+
+**OS:** Arch Linux x86\_64
+**WM:** Sway (Wayland)
+**Shell:** zsh + starship
+**Editor:** Neovim
+**Terminal:** foot / kitty
+
+### `$ cat /sys/class/current_focus`
+
+  - Architecting high-load PostgreSQL databases (1M+ records)
+  - Developing performant CLI applications in Python and Go
+  - Building full-stack web applications with TS/React
+  - Integrating AI pipelines and LLM assistants into modular systems
+  - Automating infrastructure deployments via Docker and Systemd
+
+### `$ ls skills/`
+
+| Directory | Contents |
+| :--- | :--- |
+| `/frontend` | `JavaScript` `TypeScript` `React` `HTML` `CSS` `TailwindCSS` |
+| `/backend` | `Python` `Go` `REST_APIs` `CLI_Tooling` `Modular_Architecture` |
+| `/database` | `PostgreSQL` `SQLite` `Index_Optimization` `Query_Tuning` |
+| `/infrastructure` | `Docker` `Linux_Servers` `Systemd` `Networking` |
+| `/os_environments`| `Arch` `Ubuntu` `Fedora` `Debian` |
+
+### `$ cat /proc/mindset`
+
+1.  **Minimalism:** Write only what is necessary. Less code equals a smaller attack surface and fewer bugs.
+2.  **Scalability by Design:** Architect systems anticipating high load, concurrency, and rapid data ingestion.
+3.  **Terminal First:** Optimize workflows through CLI tooling, scripts, and keyboard-driven environments.
+4.  **Data Integrity:** Strict schema design, rigorous indexing, and precise query execution.
+
+### `$ netstat -a | grep github`
+
+\<div align="center"\>
+\<img src="[https://github-readme-stats.vercel.app/api?username=USERNAME\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&bg\_color=0d1117\&title\_color=00FF41\&text\_color=c9d1d9\&icon\_color=00FF41](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DUSERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FF41%26text_color%3Dc9d1d9%26icon_color%3D00FF41)" alt="GitHub Stats" width="48%" /\>
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=tokyonight\&hide\_border=true\&bg\_color=0d1117\&title\_color=00FF41\&text\_color=c9d1d9](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DUSERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FF41%26text_color%3Dc9d1d9)" alt="Top Languages" width="48%" /\>
+\</div\>
 <br>
-
-```bash
-$ whoami
-> Biloliddin Normirzayev
-> Full-Stack Developer | SysAdmin | AI Engineer
-> Arch Linux • Sway WM • Wayland • zsh • Neovim
-
-$ uname -a
-> Linux workstation 6.8.9-arch1-1 #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux
-```
-
+\<div align="center"\>
+\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=USERNAME\&theme=tokyonight\&hide\_border=true\&background=0d1117\&ring=00FF41\&fire=00FF41\&currStreakNum=c9d1d9\&sideNums=c9d1d9\&sideLabels=c9d1d9\&dates=c9d1d9](https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DUSERNAME%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0d1117%26ring%3D00FF41%26fire%3D00FF41%26currStreakNum%3Dc9d1d9%26sideNums%3Dc9d1d9%26sideLabels%3Dc9d1d9%26dates%3Dc9d1d9)" alt="GitHub Streak" width="100%" /\>
+\</div\>
 <br>
+\<div align="center"\>
+\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=USERNAME\&theme=tokyo-night\&bg\_color=0d1117\&color=00FF41\&line=00FF41\&point=c9d1d9\&hide\_border=true](https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DUSERNAME%26theme%3Dtokyo-night%26bg_color%3D0d1117%26color%3D00FF41%26line%3D00FF41%26point%3Dc9d1d9%26hide_border%3Dtrue)" alt="Activity Graph" width="100%" /\>
+\</div\>
 
-<div align="center">
+### `$ ping contact`
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ██████╗ ██╗ ██████╗ ██████╗ ██╗      ██╗██████╗ ██╗███╗   ██╗██╗   ██╗██████╗  │
-│  ██╔══██╗██║██╔═════╝██╔═══██╗██║      ██║██╔══██╗██║████╗  ██║██║   ██║██╔══██╗ │
-│  ██████╔╝██║██║      ██║   ██║██║      ██║██║  ██║██║██╔██╗ ██║██║   ██║██║  ██║ │
-│  ██╔══██╗██║██║      ██║   ██║██║      ██║██║  ██║██║██║╚██╗██║██║   ██║██║  ██║ │
-│  ██████╔╝██║╚██████╗╚██████╔╝███████╗██║██████╔╝██║██║ ╚████║╚██████╔╝██████╔╝ │
-│  ╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═════╝  │
-└─────────────────────────────────────────────────────────────┘
-```
+> Available for technical collaboration and system architecture discussions.
 
-</div>
+\<div align="left"\>
+\<img src="[https://profile-counter.glitch.me/USERNAME/count.svg](https://www.google.com/search?q=https://profile-counter.glitch.me/USERNAME/count.svg)" alt="Visitor Count" /\>
+\</div\>
 
-<br>
+-----
 
-```bash
-$ ls skills/
-```
-
-<div align="left">
-
-**Frontend**
-```typescript
-JavaScript  TypeScript  React  HTML  CSS  TailwindCSS
-```
-
-**Backend**
-```python
-Go  REST APIs  CLI Applications  Modular Architecture
-```
-
-**Database**
-```sql
-PostgreSQL  SQLite  High-Load Design  Index Optimization  Query Tuning
-```
-
-**Infrastructure**
-```yaml
-Docker  Linux Server Config  Networking  Service Management  Systemd
-```
-
-</div>
-
-<br>
-
-```bash
-$ cat /proc/mindset
-```
-
-<div align="left">
-
-```
-Architecture: Clean, modular, scalable
-Philosophy:    Automate everything, document nothing, know everything
-Editor:        Neovim (btw I use Arch)
-Shell:        zsh + starship prompt
-Distro:       Arch Linux (Sway on Wayland)
-Experience:   Ubuntu • Fedora • Debian • RHEL
-Focus:         High-load systems (1M+ records) • CLI tooling • AI pipelines
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-```bash
-$ tree Projects/
-```
-
-```
-├── high-load-web-apps/
-│   ├── scalable-api-gateway/
-│   └── distributed-cache-layer/
-├── cli-tooling/
-│   ├── infrastructure-automation/
-│   └── deployment-scripts/
-└── ai-integrations/
-    ├── llm-pipelines/
-    └── assistant-frameworks/
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&ring_color=00FF41" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-<img height="180em" src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak Stats" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/api/graph?username=USERNAME&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area_color=00FF41&hide_border=true" alt="Activity Graph" />
-
-<br>
-
-```bash
-$ ping contact
-```
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0d1117&color=00FF41)](https://linkedin.com/in/USERNAME)
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=0d1117&color=00FF41)](mailto:email@example.com)
-[![Website](https://img.shields.io/badge/-Website-0d1117?style=flat-square&logo=firefox&logoColor=00FF41&labelColor=0d1117&color=00FF41)](https://example.com)
-
-</div>
-
-<br>
-
-```bash
-$ uptime
-```
-
-<div align="center">
-
-```
-Current Focus:    Architecting scalable systems | Building CLI tooling
-System Status:   All systems operational
-Last Commit:       Today
-Caffeine Level:   Optimal
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME&color=00FF41&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-// architecting scalable systems
-```
-
-</div>
-```
+\<div align="center"\>
+\<code\>// architecting scalable systems\</code\>
+\</div\>
