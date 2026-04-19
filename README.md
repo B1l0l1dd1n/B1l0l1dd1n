@@ -1,368 +1,167 @@
+```markdown
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami+%E2%86%92+biloliddin_normirzayev;Full-Stack+%7C+SysAdmin+%7C+AI+Engineer)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Biloliddin+Normirzayev;Full-Stack+Developer;System+Administrator;AI+Engineer" alt="Typing Animation" />
 </div>
 
----
-
-## `$ cat /etc/profile.d/engineer.sh`
+<br>
 
 ```bash
-#!/bin/bash
-# ─────────────────────────────────────────────
-#  HOST     : arch-desktop
-#  USER     : biloliddin
-#  ROLE     : Full-Stack Developer
-#           : System Administrator
-#           : AI Engineer
-#  SHELL    : zsh + starship
-#  WM       : Sway (Wayland)
-#  DISTRO   : Arch Linux (btw)
-#  EDITOR   : Neovim
-#  TERMINAL : foot / kitty
-# ─────────────────────────────────────────────
-export PHILOSOPHY="build things that scale, break things that don't"
-export APPROACH="systems thinking + clean abstractions"
-export STATUS="online :: compiling the future"
+$ whoami
+> Biloliddin Normirzayev
+> Full-Stack Developer | SysAdmin | AI Engineer
+> Arch Linux • Sway WM • Wayland • zsh • Neovim
+
+$ uname -a
+> Linux workstation 6.8.9-arch1-1 #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux
 ```
 
----
-
-## `$ uname -a`
-
-```
-Linux arch-desktop 6.x.x-arch1-1 #1 SMP PREEMPT x86_64 GNU/Linux
-
-OS History:
-  [✓] Arch Linux   ← current  (Sway WM / Wayland)
-  [✓] Ubuntu       ← servers, CI/CD pipelines
-  [✓] Fedora       ← workstation experiments
-  [✓] Debian       ← production deployments
-```
-
----
-
-## `$ lsmod | grep skills`
-
-<div align="center">
-
-| Layer | Stack |
-|---|---|
-| **Frontend** | `JavaScript` `TypeScript` `React` `HTML` `CSS` `Tailwind CSS` |
-| **Backend** | `Python` `Go` `REST API` `CLI Apps` `Modular Architecture` |
-| **Database** | `PostgreSQL` `SQLite` `High-load design` `Index optimization` |
-| **Infra** | `Docker` `Linux servers` `Networking` `Service management` |
-
-</div>
-
----
-
-## `$ ps aux | grep "what_i_build"`
-
-```
-biloliddin   [1]  Full-stack web applications      :: REST + React + Go/Python
-biloliddin   [2]  High-load systems                :: 1M+ records, optimized queries
-biloliddin   [3]  CLI tooling                      :: fast, composable, scriptable
-biloliddin   [4]  AI integrations                  :: LLM pipelines, embeddings, agents
-biloliddin   [5]  Infrastructure automation        :: Docker, systemd, server hardening
-```
-
----
-
-## `$ cat /proc/mindset`
-
-```
-─────────────────────────────────────────────────────────
-  ENGINEERING PRINCIPLES
-─────────────────────────────────────────────────────────
-
-  1. Complexity is a bug, not a feature.
-     → If you can't explain it simply, you don't understand it yet.
-
-  2. The right abstraction beats clever code every time.
-     → Design for the reader, not the writer.
-
-  3. Systems fail at the seams.
-     → Own your interfaces. Distrust defaults.
-
-  4. Optimize for correctness first, speed second.
-     → Premature optimization is a distraction with a deadline.
-
-  5. A script that runs once is technical debt.
-     → Automate, or document exactly how to automate it later.
-
-  6. Read the source.
-     → Docs lie. Code doesn't.
-
-─────────────────────────────────────────────────────────
-```
-
----
-
-## `$ cat ~/.config/tech-stack/languages.conf`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=00FF41)
-![Go](https://img.shields.io/badge/Go-1a1a2e?style=flat-square&logo=go&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=00FF41)
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=00FF41)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=00FF41)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=00FF41)
-![Neovim](https://img.shields.io/badge/Neovim-1a1a2e?style=flat-square&logo=neovim&logoColor=00FF41)
-![Arch](https://img.shields.io/badge/Arch_Linux-1a1a2e?style=flat-square&logo=archlinux&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=00FF41)
-
-</div>
-
----
-
-## `$ gh stats --user B1l0l1dd1n`
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=B1l0l1dd1n&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&hide_border=false&count_private=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1l0l1dd1n&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF41&title_color=00FF41&text_color=cccccc&hide_border=false&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=B1l0l1dd1n&theme=dark&background=0d0d0d&border=00FF41&ring=00FF41&fire=00FF41&currStreakNum=cccccc&sideNums=cccccc&currStreakLabel=00FF41&sideLabels=00FF41&dates=555555" />
-
-</div>
-
----
-
-## `$ cat /var/log/activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=B1l0l1dd1n&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41&hide_border=false&border_color=00FF41" />
-
-</div>
-
----
+<br>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│   "First, solve the problem.                    │
-│    Then, write the code."                       │
-│                                                 │
-│                        — John Johnson           │
-│                                                 │
-└─────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  ██████╗ ██╗ ██████╗ ██████╗ ██╗      ██╗██████╗ ██╗███╗   ██╗██╗   ██╗██████╗  │
+│  ██╔══██╗██║██╔═════╝██╔═══██╗██║      ██║██╔══██╗██║████╗  ██║██║   ██║██╔══██╗ │
+│  ██████╔╝██║██║      ██║   ██║██║      ██║██║  ██║██║██╔██╗ ██║██║   ██║██║  ██║ │
+│  ██╔══██╗██║██║      ██║   ██║██║      ██║██║  ██║██║██║╚██╗██║██║   ██║██║  ██║ │
+│  ██████╔╝██║╚██████╗╚██████╔╝███████╗██║██████╔╝██║██║ ╚████║╚██████╔╝██████╔╝ │
+│  ╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═════╝  │
+└─────────────────────────────────────────────────────────────┘
 ```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=B1l0l1dd1n&color=00FF41&style=flat-square&label=profile+visits)
-
-*`// architecting systems that don't apologize for existing`*
-
-</div><div align="center">
-
-<!-- TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami+%E2%86%92+biloliddin_normirzayev;Full-Stack+%7C+SysAdmin+%7C+AI+Engineer)](https://git.io/typing-svg)
 
 </div>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    ██████╗ ██╗██╗      ██████╗ ██╗     ██╗██████╗ ██████╗ ██╗███╗   ██╗  ║
-║    ██╔══██╗██║██║     ██╔═══██╗██║     ██║██╔══██╗██╔══██╗██║████╗  ██║  ║
-║    ██████╔╝██║██║     ██║   ██║██║     ██║██║  ██║██║  ██║██║██╔██╗ ██║  ║
-║    ██╔══██╗██║██║     ██║   ██║██║     ██║██║  ██║██║  ██║██║██║╚██╗██║  ║
-║    ██████╔╝██║███████╗╚██████╔╝███████╗██║██████╔╝██████╔╝██║██║ ╚████║  ║
-║    ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `$ cat /etc/profile.d/engineer.sh`
+<br>
 
 ```bash
-#!/bin/bash
-# ─────────────────────────────────────────────
-#  HOST     : arch-desktop
-#  USER     : biloliddin
-#  ROLE     : Full-Stack Developer
-#           : System Administrator
-#           : AI Engineer
-#  SHELL    : zsh + starship
-#  WM       : Sway (Wayland)
-#  DISTRO   : Arch Linux (btw)
-#  EDITOR   : Neovim
-#  TERMINAL : foot / kitty
-# ─────────────────────────────────────────────
-export PHILOSOPHY="build things that scale, break things that don't"
-export APPROACH="systems thinking + clean abstractions"
-export STATUS="online :: compiling the future"
+$ ls skills/
 ```
 
----
+<div align="left">
 
-## `$ uname -a`
-
-```
-Linux arch-desktop 6.x.x-arch1-1 #1 SMP PREEMPT x86_64 GNU/Linux
-
-OS History:
-  [✓] Arch Linux   ← current  (Sway WM / Wayland)
-  [✓] Ubuntu       ← servers, CI/CD pipelines
-  [✓] Fedora       ← workstation experiments
-  [✓] Debian       ← production deployments
+**Frontend**
+```typescript
+JavaScript  TypeScript  React  HTML  CSS  TailwindCSS
 ```
 
----
+**Backend**
+```python
+Go  REST APIs  CLI Applications  Modular Architecture
+```
 
-## `$ lsmod | grep skills`
+**Database**
+```sql
+PostgreSQL  SQLite  High-Load Design  Index Optimization  Query Tuning
+```
 
-<div align="center">
-
-| Layer | Stack |
-|---|---|
-| **Frontend** | `JavaScript` `TypeScript` `React` `HTML` `CSS` `Tailwind CSS` |
-| **Backend** | `Python` `Go` `REST API` `CLI Apps` `Modular Architecture` |
-| **Database** | `PostgreSQL` `SQLite` `High-load design` `Index optimization` |
-| **Infra** | `Docker` `Linux servers` `Networking` `Service management` |
+**Infrastructure**
+```yaml
+Docker  Linux Server Config  Networking  Service Management  Systemd
+```
 
 </div>
 
----
+<br>
 
-## `$ ps aux | grep "what_i_build"`
-
-```
-biloliddin   [1]  Full-stack web applications      :: REST + React + Go/Python
-biloliddin   [2]  High-load systems                :: 1M+ records, optimized queries
-biloliddin   [3]  CLI tooling                      :: fast, composable, scriptable
-biloliddin   [4]  AI integrations                  :: LLM pipelines, embeddings, agents
-biloliddin   [5]  Infrastructure automation        :: Docker, systemd, server hardening
+```bash
+$ cat /proc/mindset
 ```
 
----
-
-## `$ cat /proc/mindset`
+<div align="left">
 
 ```
-─────────────────────────────────────────────────────────
-  ENGINEERING PRINCIPLES
-─────────────────────────────────────────────────────────
-
-  1. Complexity is a bug, not a feature.
-     → If you can't explain it simply, you don't understand it yet.
-
-  2. The right abstraction beats clever code every time.
-     → Design for the reader, not the writer.
-
-  3. Systems fail at the seams.
-     → Own your interfaces. Distrust defaults.
-
-  4. Optimize for correctness first, speed second.
-     → Premature optimization is a distraction with a deadline.
-
-  5. A script that runs once is technical debt.
-     → Automate, or document exactly how to automate it later.
-
-  6. Read the source.
-     → Docs lie. Code doesn't.
-
-─────────────────────────────────────────────────────────
+Architecture: Clean, modular, scalable
+Philosophy:    Automate everything, document nothing, know everything
+Editor:        Neovim (btw I use Arch)
+Shell:        zsh + starship prompt
+Distro:       Arch Linux (Sway on Wayland)
+Experience:   Ubuntu • Fedora • Debian • RHEL
+Focus:         High-load systems (1M+ records) • CLI tooling • AI pipelines
 ```
-
----
-
-## `$ cat ~/.config/tech-stack/languages.conf`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=00FF41)
-![Go](https://img.shields.io/badge/Go-1a1a2e?style=flat-square&logo=go&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=00FF41)
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=00FF41)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=00FF41)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=00FF41)
-![Neovim](https://img.shields.io/badge/Neovim-1a1a2e?style=flat-square&logo=neovim&logoColor=00FF41)
-![Arch](https://img.shields.io/badge/Arch_Linux-1a1a2e?style=flat-square&logo=archlinux&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=00FF41)
 
 </div>
 
----
-
-## `$ gh stats --user USERNAME`
+<br>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&hide_border=false&count_private=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF41&title_color=00FF41&text_color=cccccc&hide_border=false&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark&background=0d0d0d&border=00FF41&ring=00FF41&fire=00FF41&currStreakNum=cccccc&sideNums=cccccc&currStreakLabel=00FF41&sideLabels=00FF41&dates=555555" />
-
-</div>
-
----
-
-## `$ cat /var/log/activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41&hide_border=false&border_color=00FF41" />
-
-</div>
-
----
-
-## `$ ping -c 1 contact`
-
-```
-PING contact (biloliddin@normirzayev) 56 bytes of data.
-
-  Channels available:
-  ├── GitHub   : github.com/USERNAME
-  ├── Telegram : t.me/USERNAME
-  └── Email    : your@email.com
-
-64 bytes from biloliddin: icmp_seq=1 ttl=64 time=<fast> ms
---- contact ping statistics ---
-1 packet transmitted, 1 received, 0% packet loss
+```bash
+$ tree Projects/
 ```
 
----
+```
+├── high-load-web-apps/
+│   ├── scalable-api-gateway/
+│   └── distributed-cache-layer/
+├── cli-tooling/
+│   ├── infrastructure-automation/
+│   └── deployment-scripts/
+└── ai-integrations/
+    ├── llm-pipelines/
+    └── assistant-frameworks/
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&ring_color=00FF41" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak Stats" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/api/graph?username=USERNAME&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area_color=00FF41&hide_border=true" alt="Activity Graph" />
+
+<br>
+
+```bash
+$ ping contact
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0d1117&color=00FF41)](https://linkedin.com/in/USERNAME)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=0d1117&color=00FF41)](mailto:email@example.com)
+[![Website](https://img.shields.io/badge/-Website-0d1117?style=flat-square&logo=firefox&logoColor=00FF41&labelColor=0d1117&color=00FF41)](https://example.com)
+
+</div>
+
+<br>
+
+```bash
+$ uptime
+```
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│   "First, solve the problem.                    │
-│    Then, write the code."                       │
-│                                                 │
-│                        — John Johnson           │
-│                                                 │
-└─────────────────────────────────────────────────┘
+Current Focus:    Architecting scalable systems | Building CLI tooling
+System Status:   All systems operational
+Last Commit:       Today
+Caffeine Level:   Optimal
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=USERNAME&color=00FF41&style=flat-square&label=profile+visits)
+</div>
 
-*`// architecting systems that don't apologize for existing`*
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&color=00FF41&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+```
+// architecting scalable systems
+```
+
+</div>
+```
